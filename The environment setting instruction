@@ -1,5 +1,8 @@
 The environment setting instruction
 
+1.Settle down DDNS and port fording in a raspberry pi 3.
+2.All support application are installed( Flask, Nginx, uWSGI, Python3)
+
 DDNS:
 
 
