@@ -1,0 +1,16 @@
+Basic commit message format:
+<type>: <subject>
+
+Choose <type> from the following list:
+1. feat: a new feature
+2. fix: a bug fix
+3. docs: documentation only changes
+4. style: change the coding style only
+5. refactor: change that neither fix a bug or add a feature
+6. test: add tests
+
+Add detail description at <subject>.
+
+Example:
+feat: allow user login
+docs: add docs for google map api
