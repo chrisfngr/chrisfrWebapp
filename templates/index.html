@@ -6,12 +6,13 @@
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <input id="pac-input" class="controls" type="text" placeholder="Search Box">
-    <h1>I am hosted on Raspberry Pi !!!</h1>
-    <div id = "map"><div>
-    <script src="{{ url_for('static', filename='js/map.js') }}"></script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1Dz2eCy5DFUjp1Z3NwUhOmsxtd7y72AQ&libraries=places&callback=initAutocomplete">
-    </script>
+<input id="pac-input" class="controls" type="text" placeholder="Search Box">
+<h1>I am hosted on Raspberry Pi !!!</h1>
+<div id="map">
+    <div>
+        <script src="{{ url_for('static', filename='js/map.js') }}"></script>
+        <script async defer
+                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1Dz2eCy5DFUjp1Z3NwUhOmsxtd7y72AQ&libraries=places&callback=initAutocomplete">
+        </script>
 </body>
 </html>
