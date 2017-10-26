@@ -2,7 +2,7 @@
 //here is to add a search function and locate to current Location
 function initAutocomplete() {
     var map = new google.maps.Map(document.getElementById('map'), {
-        center: {lat: -33.8688, lng: 151.2195},
+        center: {lat: 0, lng: 0},
         zoom: 13,
         gestureHandling: 'greedy'
         //mapTypeId: 'roadmap'
