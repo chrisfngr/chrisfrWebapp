@@ -36,8 +36,8 @@ Please view [`env_setting.txt`](docs/env_setting.txt) to get additional notes ab
 
 ## Authors
 
-* ** Chris Feng** - *Initial work* - [chrisfngr](https://github.com/chrisfngr)
-* ** Haolin Hong ** - *Back End Development* - [honghaolin](https://github.com/honghaolin)
+* **Chris Feng** - *Initial work* - [chrisfngr](https://github.com/chrisfngr)
+* **Haolin Hong** - *Back End Development* - [honghaolin](https://github.com/honghaolin)
 
 ## License
 
