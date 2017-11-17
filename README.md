@@ -1,4 +1,4 @@
-# Project Unknown
+# Find My taste
 
 This project is a web app that share the information of restrunts.
 
@@ -21,7 +21,7 @@ To install them, use the following command
 pip install -r requirements.txt
 ```
 
-To run the program, use the following command 
+To run the program, use the following command
 ```
 python app.py
 ```
